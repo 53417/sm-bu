@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  color: white;
+  padding: 20px 0;
+}
+
+.App-header > div {
+  margin: 0 auto;
+  padding: 50px 20px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-booking-time {
+  display: inline-block;
+  width: 400px;
+}
+
+.App-booking-duration {
+  display: inline-block;
+  width: 80px;
+}
+
+.App-booking-user {
+  display: inline-block;
+  width: 80px;
+}
